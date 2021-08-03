@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/FaceCheck/static/css/main.a617e044.chunk.css",
+    "main.js": "/FaceCheck/static/js/main.964f81b1.chunk.js",
+    "main.js.map": "/FaceCheck/static/js/main.964f81b1.chunk.js.map",
+    "runtime-main.js": "/FaceCheck/static/js/runtime-main.b58c8816.js",
+    "runtime-main.js.map": "/FaceCheck/static/js/runtime-main.b58c8816.js.map",
+    "static/js/2.37f5e51a.chunk.js": "/FaceCheck/static/js/2.37f5e51a.chunk.js",
+    "static/js/2.37f5e51a.chunk.js.map": "/FaceCheck/static/js/2.37f5e51a.chunk.js.map",
+    "static/js/3.b02daf57.chunk.js": "/FaceCheck/static/js/3.b02daf57.chunk.js",
+    "static/js/3.b02daf57.chunk.js.map": "/FaceCheck/static/js/3.b02daf57.chunk.js.map",
+    "index.html": "/FaceCheck/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/FaceCheck/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.37f5e51a.chunk.js.LICENSE.txt": "/FaceCheck/static/js/2.37f5e51a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b58c8816.js",
+    "static/js/2.37f5e51a.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.964f81b1.chunk.js"
+  ]
+}
